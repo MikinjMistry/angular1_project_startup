@@ -1,0 +1,1 @@
+# angular1_project_startup

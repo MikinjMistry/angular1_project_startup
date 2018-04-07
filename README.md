@@ -20,3 +20,6 @@ Build project
 ```
 gulp build
 ```
+## Authors
+
+* **Mikinj Mistry** - *Initial work*

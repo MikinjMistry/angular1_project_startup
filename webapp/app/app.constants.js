@@ -4,7 +4,7 @@
     angular
         .module('angular1JavaApp')
         .constant('VERSION', 1.1)
-        .constant('DEBUG_INFO_ENABLED', true)
-        .constant('BUILD_TIMESTAMP', "")
+        .constant('DEBUG_INFO_ENABLED', false)
+        .constant('BUILD_TIMESTAMP', 1523112618134)
 ;
 })();
